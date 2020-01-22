@@ -1,4 +1,4 @@
-from manimlib.imports import *
+clefrom manimlib.imports import *
 
 
 class WritingStuff(Scene):
